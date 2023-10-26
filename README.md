@@ -3,7 +3,7 @@ This GitHub repository hosts a predictive receipt counting application developed
 
 Content:
 
-1. A virtual environment used to create the Streamlit app.
+1. This app runs with Python 3.11.0.
 2. Two folders for images and the model.
 3. To ensure data privacy for Fetch, I have not included the dataset.
 4. A Jupyter notebook where I selected the best model for forecasting the receipts of 2022.
